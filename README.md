@@ -3,6 +3,4 @@ A single-page, one-column resume for software developers. It uses the base latex
 
 https://overleaf.com
 
-https://www.dropbox.com/s/bs2tinm7j4c9pvo/Akash%27s%20Resume.pdf?dl=0
-
-https://mega.nz/file/n0gSCQyT#0OfGvvkiUYLbv3s0WMYu5eITcD4vKzj46NWMiFM8ZPc
+Folder Link : https://www.dropbox.com/sh/ak9kx0z5itv1zzf/AAARHPHHpZj1-er_UOdF20j9a?dl=0 | https://mega.nz/folder/PgIx2YrR#DXLtM5bSsx7M0NCrqbGcyg
